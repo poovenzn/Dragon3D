@@ -1,131 +1,102 @@
 #EXTM3U
-#EXTINF:-1,qurantv
-http://213.32.96.34:1985/live/120/4YVXLQwwnW/55.ts
-#EXTINF:-1,salamtv
-http://213.32.96.34:1985/live/120/4YVXLQwwnW/79.ts
-#EXTINF:-1,BEIN SPORT 1
-http://213.32.96.34:1985/live/120/4YVXLQwwnW/1.ts
-#EXTINF:-1,BEIN SPORT 2
-http://213.32.96.34:1985/live/120/4YVXLQwwnW/2.ts
-#EXTINF:-1,BEIN SPORT 3
-http://213.32.96.34:1985/live/120/4YVXLQwwnW/3.ts
-#EXTINF:-1,BEIN SPORT 4
-http://213.32.96.34:1985/live/120/4YVXLQwwnW/4.ts
-#EXTINF:-1,BEIN SPORT 5
-http://213.32.96.34:1985/live/120/4YVXLQwwnW/5.ts
-#EXTINF:-1,BEIN SPORT 6
-http://213.32.96.34:1985/live/120/4YVXLQwwnW/6.ts
-#EXTINF:-1,BEIN SPORT 7
-http://213.32.96.34:1985/live/120/4YVXLQwwnW/7.ts
-#EXTINF:-1,BEIN SPORT 8
-http://213.32.96.34:1985/live/120/4YVXLQwwnW/8.ts
-#EXTINF:-1,BEIN SPORT 9
-http://213.32.96.34:1985/live/120/4YVXLQwwnW/9.ts
-#EXTINF:-1,BEIN SPORT 10
-http://213.32.96.34:1985/live/120/4YVXLQwwnW/10.ts
-#EXTINF:-1,beIN SPORTS 1 B
-http://213.32.96.34:1985/live/120/4YVXLQwwnW/83.ts
-#EXTINF:-1,beIN SPORTS 2 B
-http://213.32.96.34:1985/live/120/4YVXLQwwnW/84.ts
-#EXTINF:-1,beIN SPORTS 3 B
-http://213.32.96.34:1985/live/120/4YVXLQwwnW/85.ts
-#EXTINF:-1,beIN SPORTS 4 B
-http://213.32.96.34:1985/live/120/4YVXLQwwnW/86.ts
-#EXTINF:-1,beIN SPORTS 5 B
-http://213.32.96.34:1985/live/120/4YVXLQwwnW/87.ts
-#EXTINF:-1,beIN SPORTS 6 B
-http://213.32.96.34:1985/live/120/4YVXLQwwnW/88.ts
-#EXTINF:-1,AR: Bein Sport 1 HD
-http://213.32.96.34:1985/live/120/4YVXLQwwnW/89.ts
-#EXTINF:-1,AR: Bein Sport 2 HD
-http://213.32.96.34:1985/live/120/4YVXLQwwnW/91.ts
-#EXTINF:-1,AR: Bein Sport 3 HD
-http://213.32.96.34:1985/live/120/4YVXLQwwnW/92.ts
-#EXTINF:-1,AR: Bein Sport 4 HD
-http://213.32.96.34:1985/live/120/4YVXLQwwnW/93.ts
-#EXTINF:-1,AR: Bein Sport 5 HD
-http://213.32.96.34:1985/live/120/4YVXLQwwnW/94.ts
-#EXTINF:-1,AR: Bein Sport 6 HD
-http://213.32.96.34:1985/live/120/4YVXLQwwnW/95.ts
-#EXTINF:-1,BeinSports_1_SD
-http://213.32.96.34:1985/live/120/4YVXLQwwnW/11.ts
-#EXTINF:-1,BeinSports_2_SD
-http://213.32.96.34:1985/live/120/4YVXLQwwnW/12.ts
-#EXTINF:-1,BeinSports_3_SD
-http://213.32.96.34:1985/live/120/4YVXLQwwnW/13.ts
-#EXTINF:-1,BeinSports_4_SD
-http://213.32.96.34:1985/live/120/4YVXLQwwnW/14.ts
-#EXTINF:-1,BeinSports_5_SD
-http://213.32.96.34:1985/live/120/4YVXLQwwnW/15.ts
-#EXTINF:-1,BeinSports_6_SD
-http://213.32.96.34:1985/live/120/4YVXLQwwnW/16.ts
-#EXTINF:-1,BeinSports_7_SD
-http://213.32.96.34:1985/live/120/4YVXLQwwnW/17.ts
-#EXTINF:-1,BeinSports_8_SD
-http://213.32.96.34:1985/live/120/4YVXLQwwnW/18.ts
-#EXTINF:-1,BeinSports_9_SD
-http://213.32.96.34:1985/live/120/4YVXLQwwnW/19.ts
-#EXTINF:-1,BeinSports_10_SD
-http://213.32.96.34:1985/live/120/4YVXLQwwnW/20.ts
-#EXTINF:-1,BeinSport1_FR
-http://213.32.96.34:1985/live/120/4YVXLQwwnW/35.ts
-#EXTINF:-1,BeinSport2_FR
-http://213.32.96.34:1985/live/120/4YVXLQwwnW/33.ts
-#EXTINF:-1,BeinSport3_FR
-http://213.32.96.34:1985/live/120/4YVXLQwwnW/34.ts
-#EXTINF:-1,REAL MADRID TV
-http://213.32.96.34:1985/live/120/4YVXLQwwnW/66.ts
-#EXTINF:-1,live 1
-http://213.32.96.34:1985/live/120/4YVXLQwwnW/21.ts
-#EXTINF:-1,live 2
-http://213.32.96.34:1985/live/120/4YVXLQwwnW/22.ts
-#EXTINF:-1,alfajertv
-http://213.32.96.34:1985/live/120/4YVXLQwwnW/27.ts
-#EXTINF:-1,Bein Movies 1 HD
-http://213.32.96.34:1985/live/120/4YVXLQwwnW/42.ts
-#EXTINF:-1,Bein Movies 2 HD
-http://213.32.96.34:1985/live/120/4YVXLQwwnW/43.ts
-#EXTINF:-1,Bein Movies 3 HD
-http://213.32.96.34:1985/live/120/4YVXLQwwnW/44.ts
-#EXTINF:-1,Bein Movies 4 HD
-http://213.32.96.34:1985/live/120/4YVXLQwwnW/45.ts
-#EXTINF:-1,MBC 1
-http://213.32.96.34:1985/live/120/4YVXLQwwnW/37.ts
-#EXTINF:-1,MBC 2
-http://213.32.96.34:1985/live/120/4YVXLQwwnW/38.ts
-#EXTINF:-1,MBC 3
-http://213.32.96.34:1985/live/120/4YVXLQwwnW/39.ts
-#EXTINF:-1,MBC 4
-http://213.32.96.34:1985/live/120/4YVXLQwwnW/40.ts
-#EXTINF:-1,MBC Action
-http://213.32.96.34:1985/live/120/4YVXLQwwnW/41.ts
-#EXTINF:-1,MBC MAX
-http://213.32.96.34:1985/live/120/4YVXLQwwnW/57.ts
-#EXTINF:-1,MBC Masr 2
-http://213.32.96.34:1985/live/120/4YVXLQwwnW/59.ts
-#EXTINF:-1,MBC MASR
-http://213.32.96.34:1985/live/120/4YVXLQwwnW/58.ts
-#EXTINF:-1,MBC DRAMA
-http://213.32.96.34:1985/live/120/4YVXLQwwnW/60.ts
-#EXTINF:-1,AD Nat Geo
-http://213.32.96.34:1985/live/120/4YVXLQwwnW/36.ts
-#EXTINF:-1,Baraem
-http://213.32.96.34:1985/live/120/4YVXLQwwnW/61.ts
-#EXTINF:-1,Arriadia
-http://213.32.96.34:1985/live/120/4YVXLQwwnW/68.ts
-#EXTINF:-1,ENNAHAR TV ALGERIE
-http://213.32.96.34:1985/live/120/4YVXLQwwnW/70.ts
-#EXTINF:-1,El Heddaf TV
-http://213.32.96.34:1985/live/120/4YVXLQwwnW/71.ts
-#EXTINF:-1,Echourouk TV HD
-http://213.32.96.34:1985/live/120/4YVXLQwwnW/69.ts
-#EXTINF:-1,A LA CARTE 1 (FR)
-http://213.32.96.34:1985/live/120/4YVXLQwwnW/73.ts
-#EXTINF:-1,A LA CARTE 2 (FR)
-http://213.32.96.34:1985/live/120/4YVXLQwwnW/74.ts
-#EXTINF:-1,A LA CARTE 3 (FR)
-http://213.32.96.34:1985/live/120/4YVXLQwwnW/75.ts
-#EXTINF:-1,A LA CARTE 4 (FR)
-http://213.32.96.34:1985/live/120/4YVXLQwwnW/76.ts
-#EXTINF:-1,A LA CARTE 5 (FR)
-http://213.32.96.34:1985/live/120/4YVXLQwwnW/77.ts
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://static.filmon.com/assets/channels/14/big_logo.png" group-title="(UK)",BBC 1
+http://premium.exabytetv.info/tokener/DIDVX-1011000110010010100110110100000-ExabyteTV/528/exabytetv.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://static.filmon.com/assets/channels/25/big_logo.png" group-title="(UK)",BBC 2
+http://premium.exabytetv.info/tokener/DIDVX-1011000110010010100110110100000-ExabyteTV/532/exabytetv.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://static.filmon.com/assets/channels/11/big_logo.png" group-title="(UK)",ITV
+http://premium.exabytetv.info/tokener/DIDVX-1011000110010010100110110100000-ExabyteTV/527/exabytetv.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://static.filmon.com/assets/channels/2/big_logo.png" group-title="(UK)",Channel 4
+http://premium.exabytetv.info/tokener/DIDVX-1011000110010010100110110100000-ExabyteTV/424/exabytetv.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://static.filmon.com/assets/channels/22/big_logo.png" group-title="(UK)",Channel 5
+http://premium.exabytetv.info/tokener/DIDVX-1011000110010010100110110100000-ExabyteTV/531/exabytetv.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://static.filmon.com/assets/channels/27/big_logo.png" group-title="(UK)",BBC News
+http://premium.exabytetv.info/tokener/DIDVX-1011000110010010100110110100000-ExabyteTV/534/exabytetv.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://www.liveonlinetv247.info/images/skynews.png" group-title="News",Sky News
+http://premium.exabytetv.info/gc/DIDVX-1011000110010010100110110100000-ExabyteTV/1622/exabytetv.m3u8
+
+
+
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://www.liveonlinetv247.info/images/skysports1.png" group-title="SPORTS",Sky Sports 1 (UK)
+http://premium.exabytetv.info/gc/DIDVX-1011000110010010100110110100000-ExabyteTV/1603/exabytetv.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://www.liveonlinetv247.info/images/skysports2.png" group-title="SPORTS",Sky Sports 2 (UK)
+http://premium.exabytetv.info/gc/DIDVX-1011000110010010100110110100000-ExabyteTV/1604/exabytetv.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://www.liveonlinetv247.info/images/skysports3.png" group-title="SPORTS",Sky Sports 3 (UK)
+http://premium.exabytetv.info/gc/DIDVX-1011000110010010100110110100000-ExabyteTV/1605/exabytetv.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://www.liveonlinetv247.info/images/skysports4.png" group-title="SPORTS",Sky Sports 4 (UK)
+http://premium.exabytetv.info/gc/DIDVX-1011000110010010100110110100000-ExabyteTV/1606/exabytetv.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://www.liveonlinetv247.info/images/skysports5.png" group-title="SPORTS",Sky Sports 5 (UK)
+
+
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://www.liveonlinetv247.info/images/skysportsf1.png" group-title="SPORTS",Sky Sports F1 (UK)
+http://premium.exabytetv.info/gc/DIDVX-1011000110010010100110110100000-ExabyteTV/1609/exabytetv.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://www.liveonlinetv247.info/images/skysportsnews.png" group-title="SPORTS",Sky Sports News
+http://premium.exabytetv.info/gc/DIDVX-1011000110010010100110110100000-ExabyteTV/1608/exabytetv.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://www.liveonlinetv247.info/images/btsport1.png" group-title="SPORTS",BT Sport 1 UK
+http://premium.exabytetv.info/gc/DIDVX-1011000110010010100110110100000-ExabyteTV/1610/exabytetv.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://www.liveonlinetv247.info/images/btsport2.png" group-title="SPORTS",BT Sport 2 UK
+http://premium.exabytetv.info/gc/DIDVX-1011000110010010100110110100000-ExabyteTV/1611/exabytetv.m3u8
+
+
+
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/40.png" group-title="SPORTS",MLB Network
+http://premium.exabytetv.info/HLSST/192/192-DIDVX-1011000110010010100110110100000-ExabyteTV.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/515JQjBBBvL.png" group-title="SPORTS",NBA TV (USA)
+http://premium.exabytetv.info/HLSST/2347/2347-DIDVX-1011000110010010100110110100000-ExabyteTV.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Golf_Channel_Logo.png/220px-Golf_Channel_Logo.png" group-title="SPORTS",NBC Golf (USA)
+http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8|X-Forwarded-For=209.239.112.104
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/2502.png" group-title="SPORTS",NBC Sport Network (USA)
+
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/591.png" group-title="SPORTS",NFL Network
+
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/696739618562027520/oYgqd7MO.jpg" group-title="SPORTS",NFL Now (USA)
+
+
+
+
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/1087.png" group-title="(USA)",ABC
+
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/965.png" group-title="(USA)",NBC
+
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/92.png" group-title="(USA)",CBS
+
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="https://app.uktvnow.net/images/channel_imgs/190116045107fox.gif" group-title="(USA)",Fox US
+
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/10.png" group-title="News",CNN USA
+
+
+
+
+
+#EXTINF:-1 tvg-id="Exabyte TV Discovery Channel" tvg-name="Discovery Channel" tvg-logo="http://y.cdn.entutele.com/media/channels/big/discovery-channel.gif" group-title="Documentary",Discovery Channel
+
+#EXTINF:-1 tvg-id="Exabyte TV Animal Planet" tvg-name="Animal Planet" tvg-logo="http://y.cdn.entutele.com/media/channels/big/animal-planet.gif" group-title="Documentary",Animal Planet
+
+#EXTINF:-1 tvg-id="Exabyte TV History Channel" tvg-name="History Channel" tvg-logo="http://y.cdn.entutele.com/media/channels/big/history-channel.gif" group-title="Documentary",History Channel
+
+#EXTINF:-1 tvg-id="Exabyte TV NatGeo Wild" tvg-name="NatGeo Wild" tvg-logo="http://y.cdn.entutele.com/media/channels/big/natgeo-wild.gif" group-title="Documentary",Nat Geo Wild
+
+
+#EXTINF:-1 tvg-id="Exabyte TV Boomerang" tvg-name="Boomerang" tvg-logo="http://y.cdn.entutele.com/media/channels/big/boomerang.gif" group-title="kids",Boomerang
+
+#EXTINF:-1 tvg-id="Exabyte TV Cartoon Network" tvg-name="Cartoon Network" tvg-logo="http://y.cdn.entutele.com/media/channels/big/cartoon-network.gif" group-title="kids",Cartoon Network
+
+
+#EXTINF:-1 tvg-id="Exabyte TV CBeebies" tvg-name="CBeebies" tvg-logo="http://y.cdn.entutele.com/media/channels/big/cbeebies.gif" group-title="kids",CBeebies
+
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-name="" tvg-logo="http://static.filmon.com/assets/channels/29/big_logo.png" group-title="kids",CBBC
+http://premium.exabytetv.info/tokener/DIDVX-1011000110010010100110110100000-ExabyteTV/535/exabytetv.m3u8
+
+#EXTINF:-1 tvg-id="Exabyte TV Discovery Kids" tvg-name="Discovery Kids" tvg-logo="http://y.cdn.entutele.com/media/channels/big/discovery-kids.gif" group-title="kids",Discovery Kids
+
+
+#EXTINF:-1 tvg-id="Exabyte TV Disney Channel" tvg-name="Disney Channel" tvg-logo="http://y.cdn.entutele.com/media/channels/big/disney-channel.gif" group-title="kids",Disney Channel
+
+
+#EXTINF:-1 tvg-id="Exabyte TV Disney Jr" tvg-name="Disney Jr" tvg-logo="http://y.cdn.entutele.com/media/channels/big/disney-jr.gif" group-title="kids",Disney Junior
+
+
+#EXTINF:-1 tvg-id="Exabyte TV Disney XD" tvg-name="Disney XD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/disney-xd.gif" group-title="kids",Disney XD 
+
+
+
+
